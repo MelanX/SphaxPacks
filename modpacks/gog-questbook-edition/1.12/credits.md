@@ -1,0 +1,12 @@
+- [AppleSkin](https://bdcraft.net/community/pbdc-patches-rel/the-spice-life-t3246.html) by HanFox
+- [Baubles](https://bdcraft.net/community/pbdc-patches-rel/baubles-t3373.html) by crumbl3d
+- [Better Builder's Wands](https://bdcraft.net/community/pbdc-patches-rel/better-builders-wands-t5418.html) by shadowake
+- [Better Questing (plus Addons)](https://bdcraft.net/community/viewtopic.php?f=8&t=6049) by Novamanga
+- [Botania](https://bdcraft.net/community/pbdc-patches-wip/botania-t2626.html) by Novamanga
+- [Chisel](https://bdcraft.net/community/pbdc-patches-rel/chisel-t1681.html) by HanFox
+- [FTBLib (from FTB Beyond)](https://bdcraft.net/community/pbdc-patches-rel-packs/feed-the-beast-beyond-t6121.html) by Novamanga
+- [FTB Utilities (from FTB Beyond)](https://bdcraft.net/community/pbdc-patches-rel-packs/feed-the-beast-beyond-t6121.html) by Novamanga
+- [Iron Chests](https://bdcraft.net/community/pbdc-patches-rel/ironchests-t357.html) by HanFox
+- [Just Enough Items](https://bdcraft.net/community/pbdc-patches-rel/just-enough-items-jei-t5122.html) by HanFox
+- [Just Enough Resources (from FTB Beyond)](https://bdcraft.net/community/pbdc-patches-rel-packs/feed-the-beast-beyond-t6121.html) by Novamanga
+- [TheOneProbe (from FTB Beyond)](https://bdcraft.net/community/pbdc-patches-rel-packs/feed-the-beast-beyond-t6121.html) by Novamanga
