@@ -1,3 +1,4 @@
 templates
-*.png
-*.mcmeta
+.idea
+node_modules
+Sphax *x
