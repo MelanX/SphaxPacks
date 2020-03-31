@@ -1,15 +1,15 @@
-[AIOT Botania](https://bdcraft.net/community/releases-for-mods-f9/aiot-botania-t7538.html) by Novamanga
-[Blue Power](https://bdcraft.net/community/releases-for-mods-f9/blue-power-t3683.html) by Linkinexe 
-[Botania](https://bdcraft.net/community/work-progress-f8/botania-t2626.html) by Novamanga
-[Building Gadgets](https://bdcraft.net/community/releases-for-mods-f9/building-gadgets-t6670.html) by Jonezy
-[ComputerCraft](https://bdcraft.net/community/releases-for-mods-f9/computercraft-t269.html) by Sparkst3r
-[Crafting Tweaks](https://bdcraft.net/community/releases-for-mods-f9/crafting-tweaks-t6806.html) by Novamanga
-[Industrial Foregoing](https://bdcraft.net/community/releases-for-mods-f9/industrial-foregoing-t6364.html) by Novamanga
-[Iron Chests](https://bdcraft.net/community/releases-for-mods-f9/ironchests-t357.html) by HanFox
-[Just Enough Items (JEI)](https://bdcraft.net/community/releases-for-mods-f9/just-enough-items-jei-t5122.html) by HanFox
-[OpenBlocks](https://bdcraft.net/community/work-progress-f8/openblocks-t1542.html) by dozid
-[Quantum Storage](https://bdcraft.net/community/releases-for-mods-f9/quantum-storage-t6168.html) by Novamanga
-[Refined Storage](https://bdcraft.net/community/releases-for-mods-f9/refined-storage-t5972.html) by GrumpyPirate
-[RFTools (Dimensions)](https://bdcraft.net/community/releases-for-mods-f9/rftools-t4985.html) by Novamanga
-[Storage Drawers](https://bdcraft.net/community/releases-for-mods-f9/storage-drawers-t3439.html) by Novamanga
-[XNet](https://bdcraft.net/community/releases-for-mods-f9/xnet-t6144.html) by Novamanga
+- [AIOT Botania](https://bdcraft.net/community/releases-for-mods-f9/aiot-botania-t7538.html) by Novamanga
+- [Blue Power](https://bdcraft.net/community/releases-for-mods-f9/blue-power-t3683.html) by Linkinexe 
+- [Botania](https://bdcraft.net/community/work-progress-f8/botania-t2626.html) by Novamanga
+- [Building Gadgets](https://bdcraft.net/community/releases-for-mods-f9/building-gadgets-t6670.html) by Jonezy
+- [ComputerCraft](https://bdcraft.net/community/releases-for-mods-f9/computercraft-t269.html) by Sparkst3r
+- [Crafting Tweaks](https://bdcraft.net/community/releases-for-mods-f9/crafting-tweaks-t6806.html) by Novamanga
+- [Industrial Foregoing](https://bdcraft.net/community/releases-for-mods-f9/industrial-foregoing-t6364.html) by Novamanga
+- [Iron Chests](https://bdcraft.net/community/releases-for-mods-f9/ironchests-t357.html) by HanFox
+- [Just Enough Items (JEI)](https://bdcraft.net/community/releases-for-mods-f9/just-enough-items-jei-t5122.html) by HanFox
+- [OpenBlocks](https://bdcraft.net/community/work-progress-f8/openblocks-t1542.html) by dozid
+- [Quantum Storage](https://bdcraft.net/community/releases-for-mods-f9/quantum-storage-t6168.html) by Novamanga
+- [Refined Storage](https://bdcraft.net/community/releases-for-mods-f9/refined-storage-t5972.html) by GrumpyPirate
+- [RFTools (Dimensions)](https://bdcraft.net/community/releases-for-mods-f9/rftools-t4985.html) by Novamanga
+- [Storage Drawers](https://bdcraft.net/community/releases-for-mods-f9/storage-drawers-t3439.html) by Novamanga
+- [XNet](https://bdcraft.net/community/releases-for-mods-f9/xnet-t6144.html) by Novamanga
