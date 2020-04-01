@@ -1,0 +1,2 @@
+# Credits
+[Thermal Foundation patch by HanFox](https://bdcraft.net/community/releases-for-mods-f9/thermal-foundation-t3017.html) for Stone Excavator as template and Wood, Stone, Iron, Gold and Diamond Excavator as complete texture
