@@ -1,7 +1,11 @@
 @ECHO Generating size packs + zipping up...
 @ECHO.
 
-@CALL npm run makezips
+@SET dirpath=%CD%
+
+@CD ..\..
+
+@CALL npm run makezips -- --path %dirpath%
 @ECHO.
 
 @ECHO Complete!
