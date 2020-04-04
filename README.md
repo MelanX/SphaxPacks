@@ -12,5 +12,5 @@ This repo contains a lot of stuff. It contains all raw data and [Sphaxify](https
 - [CustomQuests](https://bdcraft.net/community/releases-for-mods-f9/customquests-t7578.html)
 - MoreVanillaArmor (WIP)
 - [MoreVanillaTools](https://bdcraft.net/community/releases-for-mods-f9/morevanillatools-t7595.html)
-- Vanilla Excavators (Forge) (WIP)
+- [Vanilla Excavators (Forge)](https://bdcraft.net/community/releases-for-mods-f9/vanilla-excavators-t7605.html)
 - [Vanilla Hammers (Forge)](https://bdcraft.net/community/releases-for-mods-f9/vanilla-hammers-t7597.html)
