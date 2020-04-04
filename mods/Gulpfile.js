@@ -1,4 +1,23 @@
 /* -----------------------------------------------------------------------------
+ * GULP PLUGINS
+ * -------------------------------------------------------------------------- */
+// Gulp + plugins
+var gulp = require('gulp'),
+    $ = require('gulp-load-plugins')({
+        pattern: '*',
+        camelize: true
+    }),
+// Node core modules
+    path = require('path'),
+    fs = require('fs'),
+// Get command line args
+    args = $.minimist(process.argv.slice(2));
+
+
+var basePath = (args.path || __dirname);
+var config = require(path.join(basePath, "config"));
+
+/* -----------------------------------------------------------------------------
  * Sphax Patch - Setup
  * -----------------------------------------------------------------------------
  * Edit the below section to customise the patch
@@ -6,13 +25,13 @@
 // Set patch name - will be used to name .zip files.
 // Alternatively, when calling 'gulp makeZips' on the command line, pass in the
 // argument '--patchname MyPatchName' to override
-var patchName = 'Vanilla Hammers (Fabric) MC1.14';
+var patchName = config.patchName;
 // Initial size of source images - set this to the starting size of the patch
 // E.g. if resizing a 128x patch, set to 128
-var initialSize = 512;
+var initialSize = config.initialSize;
 // Set how many times the original patch should be downsized (inclusive)
 // E.g. processing a 512x patch 5 times would produce: 512, 256, 128, 64, 32
-var resizeLevels = 5;
+var resizeLevels = config.resizeLevels;
 // Prevent these files from being included in generated size packs:
 var ignoreTheseFiles = [
     // Design files
@@ -53,9 +72,9 @@ var compressables = [
 // Paths - set these to whatever, or simply leave as default
 var paths = {
     // Source images/designs folder - source designs should be placed here
-    src:  'raw/',
+    src:  path.join(args.path, 'raw/'),
     // Destination for generated size packs
-    dest: 'zip/'
+    dest: path.join(args.path, 'zip/')
 };
 
 
@@ -94,23 +113,6 @@ var settings = {
 
         return a;
     })();
-
-
-/* -----------------------------------------------------------------------------
- * GULP PLUGINS
- * -------------------------------------------------------------------------- */
-// Gulp + plugins
-var gulp = require('gulp'),
-    $ = require('gulp-load-plugins')({
-        pattern: '*',
-        camelize: true
-    }),
-// Node core modules
-    path = require('path'),
-    fs = require('fs'),
-// Get command line args
-    args = $.minimist(process.argv.slice(2));
-
 
 /* -----------------------------------------------------------------------------
  * GLOBAL FUNCTIONS
