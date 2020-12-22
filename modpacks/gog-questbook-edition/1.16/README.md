@@ -3,6 +3,7 @@
 - [A Block of Charcoal (from Thermal Foundation)](https://bdcraft.net/community/releases-for-mods-f9/thermal-foundation-t3017.html) by HanFox
 - [AppleSkin](https://bdcraft.net/community/pbdc-patches-rel/the-spice-life-t3246.html) by HanFox
 - [Botania](https://bdcraft.net/community/pbdc-patches-wip/botania-t2626.html) by Novamanga
+- [Building Gadgets](https://bdcraft.net/community/releases-for-mods-f9/building-gadgets-t6670.html) by Jonezy
 - [Crafting Tweaks](https://bdcraft.net/community/releases-for-mods-f9/crafting-tweaks-t6806.html) by Novamanga
 - [Iron Chests](https://bdcraft.net/community/pbdc-patches-rel/ironchests-t357.html) by HanFox
 - [Iron Shulker Boxes](https://bdcraft.net/community/releases-for-mods-f9/iron-shulker-boxes-t7684.html) by HanFox
