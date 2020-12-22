@@ -1,0 +1,11 @@
+# Credits
+- [AIOT Botania](https://bdcraft.net/community/releases-for-mods-f9/aiot-botania-t7538.html) by Novamanga
+- [A Block of Charcoal (from Thermal Foundation)](https://bdcraft.net/community/releases-for-mods-f9/thermal-foundation-t3017.html) by HanFox
+- [AppleSkin](https://bdcraft.net/community/pbdc-patches-rel/the-spice-life-t3246.html) by HanFox
+- [Botania](https://bdcraft.net/community/pbdc-patches-wip/botania-t2626.html) by Novamanga
+- [Crafting Tweaks](https://bdcraft.net/community/releases-for-mods-f9/crafting-tweaks-t6806.html) by Novamanga
+- [Iron Chests](https://bdcraft.net/community/pbdc-patches-rel/ironchests-t357.html) by HanFox
+- [Iron Shulker Boxes](https://bdcraft.net/community/releases-for-mods-f9/iron-shulker-boxes-t7684.html) by HanFox
+- [Just Enough Items](https://bdcraft.net/community/pbdc-patches-rel/just-enough-items-jei-t5122.html) by HanFox
+- [Just Enough Resources (from FTB Beyond)](https://bdcraft.net/community/pbdc-patches-rel-packs/feed-the-beast-beyond-t6121.html) by Novamanga
+- [TheOneProbe](https://bdcraft.net/community/work-progress-f8/the-one-probe-t6212.html) by Ecliptic
