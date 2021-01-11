@@ -1,7 +1,7 @@
 @ECHO Generating size packs + zipping up...
 @ECHO.
 
-@SET dirpath=%CD%
+@SET dirpath="%CD%"
 
 @CD ..\..
 
