@@ -29,6 +29,6 @@
     "imagemin-optipng": "github:grumpypirate/imagemin-optipng",
     "merge-stream": "^1.0.0",
     "minimist": "^1.2.6",
-    "node-notifier": "^4.5.0"
+    "node-notifier": "^8.0.1"
   }
 }
